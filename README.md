@@ -39,23 +39,7 @@ A full-stack E-commerce web application built with **React.js** on the frontend 
 - MongoDB (local or cloud)
 - npm or yarn
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/ecommerce_react_node.git
-cd ecommerce_react_node
-
-cd server
-npm install
-# Create a .env file and add MongoDB URI and JWT secret
-npm start
-
-cd client
-npm install
-npm start
-
-PORT=5000
-MONGO_URI=your_mongo_db_connection_string
-JWT_SECRET=your_jwt_secret
-
-
+##Team members 
+-Vaishnavi Dhotre
+-Sakshi Dixit
+-Sonai Yadav
